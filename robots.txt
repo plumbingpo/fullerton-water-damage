@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://restorationfullerton.com/sitemap.xml
